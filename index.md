@@ -9,6 +9,7 @@ My GitHub page is http://github.com/NotNyela.
 ### CPSC 120
 
 * Lab 1
+
     I know it's pretty simple, but Lab 1 was one of my favorites for this
     class because of the highly favored "Hello World" text print on the
     terminal. I've been coding since the fourth grade, and I remember my
